@@ -1,0 +1,22 @@
+/* Width */
+
+@media screen and (max-width: 1000px) {
+  .cursor {
+    display: none;
+  }
+  .proj {
+    transform: skewY(0deg) scale(1);
+  }
+}
+
+/* Height */
+
+@media screen and (max-height: 700px) {
+  .linksContainer1 ul li {
+    padding: 15px;
+  }
+  .projects {
+    height: 120%;
+    bottom: -220%;
+  }
+}

@@ -1,0 +1,5 @@
+Hi There guys, my name is Katlego Mangoale and i'm a web developer/designer.
+In high school I studied Computer Applications Technology (CAT) from Grade 10 to Grade 12. In these 3 years. 
+We learned HTML and CSS in all classes in this subject and that's when I started to developed my love for Web development. 
+After high school I went to University of Limpopo to study law, while studying law i was also increasing my knowledge for web development through Online courses from freecodecamp.org and youtube videos.
+I learned HTML5, CSS3, Javascript, Node.js, Express, MongoDB, Python, Bootstrap, React.js etc. 
